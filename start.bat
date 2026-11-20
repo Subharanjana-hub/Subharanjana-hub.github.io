@@ -1,0 +1,3 @@
+@echo off
+echo Opening Subharanjana A's Portfolio in your default browser...
+start "" "index.html"

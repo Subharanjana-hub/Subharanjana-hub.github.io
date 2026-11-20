@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#1d337d"/>
+      <stop offset="100%" stop-color="#0a1330"/>
+    </radialGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f6b93b"/>
+      <stop offset="100%" stop-color="#d4921b"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bgGrad)"/>
+  <circle cx="200" cy="155" r="68" fill="url(#goldGrad)"/>
+  <path d="M85 365 C85 275, 315 275, 315 365 Z" fill="#ffffff" opacity="0.92"/>
+  <text x="200" y="173" font-family="'Fraunces', Georgia, serif" font-size="48" font-weight="700" fill="#0a1330" text-anchor="middle">SA</text>
+  <circle cx="200" cy="200" r="190" fill="none" stroke="#f6b93b" stroke-width="2" stroke-dasharray="8 6" opacity="0.4"/>
+</svg>
